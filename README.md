@@ -1,1 +1,1 @@
-Detects all the faces in an image. GUI made using tkinter library. I had no GPU so chose to use facealignment library that returns coordinates of found faces. Overall, was much easier.
+Detects all the faces in an image. GUI made using tkinter library. Uses facealignment library to return coords of face which can be drawn using rectangles in opencv. Made a simple GuI using tkiner which opens file browser window and shows output.
